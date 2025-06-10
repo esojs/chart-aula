@@ -1,0 +1,12 @@
+apiVersion: v2
+name: giropops-senhas
+description: Gerador de senhas da Linuxtips
+version: 0.1.0
+appVersion: "1.0"
+sources: 
+  - https://github.com/badtuxx/giropops-senhas
+#dependencies:
+#  - name: redis
+#    version: "17.5.0"
+#    repository: "https://charts.bitnami.com/bitnami"
+# helm dependency update ./
