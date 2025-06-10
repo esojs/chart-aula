@@ -3,13 +3,13 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-06-10T15:13:27.402767479-03:00"
+    created: "2025-06-10T15:29:05.651096558-03:00"
     description: Gerador de senhas da Linuxtips
     digest: 1b2a6b017c42436e8f860734cdbcf3628b6edf21c22e6d496f4011a7cb91341f
     name: giropops-senhas
     sources:
     - https://github.com/badtuxx/giropops-senhas
     urls:
-    - https://github.com/esojs/chart-aula/giropops-senhas-0.1.0.tgz
+    - https://esojs.github.io/chart-aula/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-10T15:13:27.402198986-03:00"
+generated: "2025-06-10T15:29:05.650508283-03:00"
